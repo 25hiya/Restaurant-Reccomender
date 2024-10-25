@@ -1,0 +1,30 @@
+Below are instructions to run Project 2
+
+To get the visualization graph of all the users' reviewed restaurants and their corresponding ratings uncomment lines
+21 and 22 in main.py.
+
+After running main, you should get the graph - Note: this may take some time.
+
+Next, type in the following the answers to the following questions:
+
+Are you a Smoker or Non-smoker?
+>? Non-smoker
+What is your drinking level? Choose from: non-drinker, casual drinker, heavy drinker
+>? casual drinker
+What is your dress preference? Choose from: informal, smart-casual, formal
+>? informal
+What kind of ambience do you prefer? Choose from: solitary, friends, family
+>? friends
+What is your budget? Choose from: low, medium, high
+>? medium
+How many restaurant recommendations do you want?
+>? 5
+What is your postal code(only Toronto)
+>? M5S2E8
+
+The result you get is a bar graph showing the recommended restaurants and their average rating (from all the users
+that reviwed them in the data set so you can get a better picture of the restaurant's quality). Screenshot of what
+graph should look like is in the written report.
+
+You should get back the following restaurants: Gorditas Doa Gloria, Restaurant Oriental Express,Cafeteria y Restaurant
+El Pacifico, El Rinc?n de San Francisco and Uncols Pizza.
